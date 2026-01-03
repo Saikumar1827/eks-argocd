@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/saikumar1827/eks-argocd.git
+    repoURL: https://github.com/Saikumar1827/eks-argocd.git
     targetRevision: main # Specifies the branch, tag, or commit to sync to
     path: namespaces
   destination:
